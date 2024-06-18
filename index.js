@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/twitter", (req, res) => {
-  res.send("sab log acche hai shubham bs pagal h");
+  res.send("ritik mc h bosar.. wala h");
 });
 
 app.listen(process.env.PORT, () => {
